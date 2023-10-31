@@ -180,7 +180,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output  :
 <img src="https://github.com/AbishekAnand15/Experiment-01-INTERFACING-DIGITAL-OUTPUT-FOR-ARM-DEVELOPMENT-BOARD-/assets/118706942/a717c18e-9118-4d21-a03c-ca7bb4b0455c" height=450 width=450>
-)
+
 ![ouput](out2.jpg)
  
  
