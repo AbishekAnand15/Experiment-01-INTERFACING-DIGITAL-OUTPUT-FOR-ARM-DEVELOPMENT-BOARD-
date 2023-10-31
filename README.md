@@ -1,3 +1,7 @@
+```
+Name:Abishek Xavier A
+Reg no:212222230004
+```
 # Experiment 01 INTERFACING DIGITAL OUTPUT FOR ARM DEVELOPMENT BOARD 
  
 
